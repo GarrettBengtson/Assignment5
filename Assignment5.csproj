@@ -6,4 +6,33 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net7.0\Assignment5.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net7.0\Assignment5.GlobalUsings.g.cs" />
+    <Compile Include="obj\Debug\net7.0\Assignment5.RazorAssemblyInfo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="obj\Assignment5.csproj.nuget.dgspec.json" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\Debug\net7.0\" />
+    <Folder Include="obj\Debug\net7.0\refint\" />
+    <Folder Include="obj\Debug\net7.0\ref\" />
+    <Folder Include="obj\Debug\net7.0\staticwebassets\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="obj\Assignment5.csproj.nuget.g.props" />
+    <None Include="obj\Assignment5.csproj.nuget.g.targets" />
+    <None Include="obj\Debug\net7.0\Assignment5.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net7.0\Assignment5.assets.cache" />
+    <None Include="obj\Debug\net7.0\Assignment5.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net7.0\Assignment5.RazorAssemblyInfo.cache" />
+    <None Include="obj\project.nuget.cache" />
+  </ItemGroup>
+
 </Project>
